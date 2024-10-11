@@ -11,8 +11,7 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.Ologo} width={100} alt="logo" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Non
-            sapiente odit eveniet blanditiis adipisci ducimus.
+          Order from the comfort of your home and track your delivery in real time. Enjoy fresh, hot meals with just a few clicks!
           </p>
           <div className="footer-social-icons">
             <FaFacebookF style={{color:'white', margin:'10px'}}/>
