@@ -30,8 +30,6 @@ import rolls1 from "./rolls1.jpg";
 import rolls3 from "./rolls3.jpg";
 import rolls4 from "./rolls4.jpg";
 import rolls5 from "./rolls5.jpg";
-import rolls11 from "./rolls11.jpg";
-import rolls10 from "./rolls10.jpg";
 import cookies2 from "./cookies2.jpg";
 import doughnuts2 from "./doughnuts2.jpg";
 import pasta4 from './pasta4.jpg';
@@ -164,7 +162,7 @@ export const foodList = [
   {
     _id: "7",
     name: "Pastry Rolls",
-    image: rolls11,
+    image: rolls5,
     price: 13,
     description:
       "Sweet rolls made from rolled dough filled with cinnamon sugar.",
@@ -173,7 +171,7 @@ export const foodList = [
   {
     _id: "8",
     name: "Spring Rolls",
-    image: rolls10,
+    image: rolls5,
     price: 10,
     description:
       "Crispy, deep-fried rolls filled with cabbage, carrots and meat.",
