@@ -14,7 +14,7 @@ import MyOrders from "./pages/MyOrders/MyOrders";
 const App = () => {
   const [showLogin, setShowLogin] = useState(false);
   const [cartItems, setCartItems] = useState({});
-  const url = "http://localhost:4000";
+  const url = "https://oriels-backend.onrender.com";
   const [token, setToken] = useState("");
   const [foodList, setFoodList] = useState([])
   const addToCart = async (itemId) => {

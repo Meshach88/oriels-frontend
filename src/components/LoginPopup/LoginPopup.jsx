@@ -11,7 +11,7 @@ const LoginPopup = ({ setShowLogin, token, setToken }) => {
     password: "",
   });
 
-  const url = "http://localhost:4000";
+  const url = "https://oriels-backend.onrender.com";
   // const [token, setToken] = useState("");
 
   const onChangeHandler = (event) => {
